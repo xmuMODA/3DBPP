@@ -1,7 +1,8 @@
 # 3DBPP
-The original data were collected from a local shipment company. It in cludes 20 types of different sizes,As shown in (1).
+This dataset serves as a source of data for conducting experiments and research related to three-dimensional bin packing.
+The original data were collected from a local shipment company. It includes 20 types of different sizes, as shown in (1).
 We expanded the datasets by generating new instance sets for different m and n. 
-For each m and n, we set m = [3, 5, 8, 10, 12, 15, 20]and n = [50, 100, 200], and built a corresponding random instance set,RIS(m, n).
+For each m and n, we set m = [3, 5, 8, 10, 12, 15, 20]and n = [50, 100, 200], and built a corresponding random instance set, RIS(m, n).
 As shown in(2), each RIS(m, n) consists of 100 instances randomly generated according to the probability of the quantity
 proportion. 
 
