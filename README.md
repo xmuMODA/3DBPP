@@ -15,7 +15,7 @@ For the 'm' and 'n' values, the following sets were defined: 'm = [3, 5, 8, 10, 
 
 ## Dataset File Structure and Format
 
-Data instance files are named following the format 'rism_n'. In each instance set, the first line indicates the number of instances contained within that set, and the instances themselves are listed successively starting from the second line. As illustrated below, the first row of each instance signifies the quantity of generated instances in the set (instances are considered regardless of order).The second column specifies the dimensions of the container used. The third line provides information about 'm' (the type) and 'n' (the total number) of items to be processed within that instance.Subsequent sequences detail the depth, width, height, and quantity of each item type.  
+Data instance files are named following the format 'rism_n'. In each instance set, the first line indicates the number of instances contained within that set, and the instances themselves are listed successively starting from the second line. As illustrated below, the first row of each instance signifies the quantity of generated instances in the set (instances are considered regardless of order).The second line specifies the dimensions of the container used and the third line provides information about 'm' (the type) and 'n' (the total number) of items to be processed within that instance.Subsequent sequences detail the depth, width, height, and quantity of each item type.  
 
 ## Example: ris3_50
 
